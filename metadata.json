@@ -1,0 +1,6 @@
+{
+  "name": "Dilocash",
+  "description": "A high-converting, premium fintech landing page featuring a interactive 3D-realistic credit card customizer, live FX rate converter, cryptocurrency ticker, and scrolling animation elements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
